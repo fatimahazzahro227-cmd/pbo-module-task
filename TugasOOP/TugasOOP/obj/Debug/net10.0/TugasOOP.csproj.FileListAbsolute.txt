@@ -1,0 +1,14 @@
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\bin\Debug\net10.0\TugasOOP.exe
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\bin\Debug\net10.0\TugasOOP.deps.json
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\bin\Debug\net10.0\TugasOOP.runtimeconfig.json
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\bin\Debug\net10.0\TugasOOP.dll
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\bin\Debug\net10.0\TugasOOP.pdb
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\obj\Debug\net10.0\TugasOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\obj\Debug\net10.0\TugasOOP.AssemblyInfoInputs.cache
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\obj\Debug\net10.0\TugasOOP.AssemblyInfo.cs
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\obj\Debug\net10.0\TugasOOP.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\obj\Debug\net10.0\TugasOOP.dll
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\obj\Debug\net10.0\refint\TugasOOP.dll
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\obj\Debug\net10.0\TugasOOP.pdb
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\obj\Debug\net10.0\TugasOOP.genruntimeconfig.cache
+D:\KULIAH\Semester 2\PBO\TugasOOP\TugasOOP\obj\Debug\net10.0\ref\TugasOOP.dll
